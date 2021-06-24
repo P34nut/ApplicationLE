@@ -1,7 +1,7 @@
-# Willkommen auf meiner GitHub Bewerbungsseite
+# Welcome to my GitHub application page.
 
-Nachfolgend finden sich alle wichtigen Unterlagen zu meiner Person und den Arbeiten, die während des Studiums entstanden sind.
+Below are all the important documents about myself and the work I did during my studies.
 
-### [Lebenslauf](Lebenslauf.pdf)
-### [Zeugnisse](Zeugnisse.pdf)
+### [Curriculum vitae](Curriculum vitae.pdf)
+### [Certificates](certificates.pdf)
 ### [Portfolio](portfolio.md)
