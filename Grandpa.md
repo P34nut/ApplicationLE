@@ -1,18 +1,19 @@
-Bei Grandpas Adventure handelt es sich um ein WebGL Spiel, welches im Rahmen des Bachelorkurses *Game Design* entstanden ist. 
-Es wurde hier zuerst ein Konzept und für ein analoges Spiel entwickelt, welches dann auch als analoger Prototyp umgesetzt wurde. In einem zweiten Schritt wurde dieses Konzept als WebGL fähiger Prototyp umgesetzt.
+Grandpas Adventure is a WebGL prototype that was developed as part of the *Game Design* bachelor course. 
+First, a concept was developed for an analogue game, which was then implemented as an analogue prototype. In a second step, this concept was implemented as a WebGL-capable prototype.
 
-Grandpas Adventure handelt von deinem Urururgroßvater, welcher ein großer Schatzsucher war. Allerdings verlor er auf einer seiner Expeditionen sein Leben.
-Du reist nun in die Vergangenheit, um deinen Urururgroßvater vor dem Tod zu bewahren. 
+Grandpas Adventure is about your great-great-great grandfather, who was a great treasure hunter. However, he lost his life on one of his expeditions.
+You now travel back in time to save your great-great-great-grandfather from death. 
 
-Das Gameplay besteht aus mehreren Phasen.
-- In der ersten Phase erkundet der Spieler die Höhle selbst (in First-Person) und kann Gegenstände sammeln und Fallen entschärfen.
-- Danach können diese Gegenstände in einer Top-Down-Ansicht platziert werden, um den Urururgroßvater zu leiten. Allerdings nur an Stellen, die man als Spieler auch gesehen hat.
-- Ist die Zeit abgelaufen betritt der Urururgroßvater die Höhle und der Spieler ist nur noch Beobachter.
+The gameplay consists of several phases.
+- In the first phase, the player explores the cave itself (in first-person) and can collect items and disarm traps.
+- Afterwards, these items can be placed in a top-down view to guide the great-great grandfather. However, only in places that the player has seen.
+- When the time is up, the great-great-great grandfather enters the cave and the player is only an observer.
 
-Komplettes Design Dokument findet sich [hier](Grandpas_Adventure.pdf)
+Complete design document can be found [here](Grandpas_Adventure.pdf) (German)
 
-Prototyp [hier](Game/index.html) spielbar
+Prototype playable [here](Game/index.html)
 
-Code findet sich [hier](https://github.com/P34nut/GrandpasAdventure)
+Code can be found [here](https://github.com/P34nut/GrandpasAdventure)
 
-[zurück](portfolio.md)
+[back](portfolio.md)
+
