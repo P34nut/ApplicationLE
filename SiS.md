@@ -1,22 +1,22 @@
-Das Spiel *Schritte im Schatten* ist eine einzigartige Übertragung des Point'n Click Konzeptes in ein Full Motion Video Game. Der Spieler wird zurück in die neunziger Jahre versetzt und durchlebt interaktiv die Abenteuer des Privatdetektivs René Kamp.
-Wird er seinen neuesten Fall lösen und damit seiner Vergangenheit entkommen? Es liegt an dir.
+The game *Schritte im Schatten* is a unique transfer of the point'n click concept into a full motion video game. The player is transported back to the nineties and interactively experiences the adventures of private detective René Kamp.
+Will he solve his latest case and thus escape his past? It's up to you.
 
-Das Spiel entstand als Projekt während meines Bachelorstudiums, welches sich über zwei Semester zog.
+The game was developed as a project during my bachelor's degree, which lasted two semesters.
 
-Im ersten Semester wurde im Team gemeinsam eine Story und damit verbunden das Drehbuch entwickelt. Hier musste sehr viel durchdacht und geplant werden, da jede Szene vorhanden sein musste. Später einfach eine Szene oder andere Kameraperspektive hinzuzufügen war, im Gegensatz zu herkömmlicher 2D- oder 3D Grafik, nicht möglich.
+In the first semester, we worked together as a team to develop a story and the associated screenplay. A lot of thought and planning had to go into it, because every scene had to be there. In contrast to conventional 2D or 3D graphics, it was not possible to simply add a scene or a different camera perspective later.
 
-Im zweiten Semester bestand meine Aufgabe darin, die alleinige Programmierung zu übernehmen. Hierzu wurde die Engine Unity3D benutzt. 
-Ich habe in der Zeit sehr viel über die Programmierung gelernt und mir die Sprache C# währenddessen selbst beigebracht, da wir bis zu diesem Zeitpunkt nur Java und Javascript gelernt hatten. 
+In the second semester, my task was to take over the sole programming. The Unity3D engine was used for this. 
+I learned a lot about programming during this time and taught myself the C# language during this time, as we had only learned Java and Javascript up to this point. 
 
-Das Projekt war ein voller Erfolg, da die Leistung mit dem Medien- und IT-Preis und dem Publikumspreis am Tag der Medien im Wintersemester 17/18 prämiert wurde.
+The project was a complete success, as the achievement was awarded the Media and IT Prize and the Audience Prize on Media Day in the winter semester 17/18.
 
-Weitere Infos über das Projekt finden sich auf der [Website des Spiels](https://schritte-im-schatten.de/). 
+More info about the project can be found on the [website of the game](https://schritte-im-schatten.de/). 
 
-Dort kann auch eine Demo heruntergeladen werden.
-Diese ist aber noch aus dem Jahr 2017. Seitdem wurden einige Bugs aus dem Spiel entfernt und auch englische Untertitel hinzugefügt, sodass das Spiel in Zukunft veröffentlicht werden kann.
+A demo can also be downloaded there.
+Since then, some bugs have been removed from the game and English subtitles have been added so that the game can be published soon.
 
-Einblick in den Code finden sich [hier](https://github.com/P34nut/Schritte-im-Schatten/).
+You can find a glimpse of the code [here](https://github.com/P34nut/Schritte-im-Schatten/).
 
-Hierbei ist noch einmal zu erwähnen, dass dies mein erstes wirkliches Unity Projekt war und der Code dementsprechend unschön ist und ich heute vieles anders machen würde. 
+It should be mentioned again that this was my first real Unity project and the code is accordingly messy and I would do many things differently today. 
 
-[zurück](portfolio.md)
+back](portfolio.md)
