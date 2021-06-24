@@ -1,18 +1,17 @@
-Beim Spiel A Cat in Time handelt es sich um ein Projekt, dass während meines Masterstudiums umgesetzt wurde. 
-In Zusammenarbeit mit der Medien- und Filmgesellschaft Baden-Württemberg (MFG) sollte ein mobiles VR/AR ähnliches Spiel entstehen.
-Die MFG hatte hierfür mehrere GLAMs (Galleries, Libraries, Archives, Museums) mit an Board geholt, die offene Kulturdaten zur Verfügung stellten.
+The game A Cat in Time is a project that was realised during my Master's programme. In cooperation with the Medien- und Filmgesellschaft Baden-Württemberg (MFG), a mobile VR/AR-like game was to be created. MFG had brought several GLAMs (Galleries, Libraries, Archives, Museums) on board for this, which provided open cultural data.
 
-Unsere Gruppe entschied sich für das Stadtmuseum in Tübingen. Unsere Aufgabe bestand nun darin aus den gegebenen Kulturdaten ein mobiles VR oder AR Spiel zu entwickeln.
+Our group decided on the city museum in Tübingen. Our task was to develop a mobile VR or AR-like game from the given cultural data.
 
-Dabei einstand das Spiel A Cat in Time, in welchem der Spieler durch das heutige Stadtmuseum laufen und an bestimmten Punkten in die Vergangenheit reisen kann, um so zu erfahren, wie das Leben im Kornmarkt/Stadtmuseum früher war.
-In der Vergangenheit müssen kleine Rätsel gelöst werden, um am Ende der Geisterkatze zu helfen, sich wieder mit ihrem Körper zu vereinen.
+The result was the game A Cat in Time, in which the player can walk through today's city museum and travel back in time at certain points to find out what life was like in the Kornmarkt/City Museum in the past.
+In the past, small puzzles have to be solved in order to help the ghost cat reunite with its body at the end.
 
-Weitere Infos über das Museum finden sich auf deren [Website](https://www.tuebingen.de/stadtmuseum/)
+More info about the museum can be found on their [website](https://www.tuebingen.de/stadtmuseum/) (German)
 
-Design Dokument befindet sich [hier](Cat_Design.pdf)
+Design document can be found [here](Cat_Design.pdf) (German)
 
-Code befindet sich [hier](https://github.com/P34nut/A_Cat_In_Time)
+Code can be found [here](https://github.com/P34nut/A_Cat_In_Time)
 
-Download der App-APK [hier](https://drive.google.com/file/d/1_DWjKOdqAxEk2m3imQATNnsY8-dER7HX/view?usp=sharing)
+Download the App-APK [here](https://drive.google.com/file/d/1_DWjKOdqAxEk2m3imQATNnsY8-dER7HX/view?usp=sharing) (German)
 
-[zurück](portfolio.md)
+[back](portfolio.md)
+
