@@ -1,19 +1,17 @@
-Nachfolgend meine Masterthesis mit dem Titel *Nahe Echtzeit-Emotionserkennung mittels Machine-Learning-Verfahren auf High-Framerate-Videodaten im Kontext der Flowmessung*
+The following is my master's thesis entitled *Near real-time emotion recognition using machine learning techniques on high-frame-rate video data in the context of flow measurement*.
 
 
 **Abstract:**  
-In der vorliegenden Masterarbeit wird ein neuronales Netz dazu genutzt, 
-um aus sehr kurzen und subtilen Gesichtsausdrücken, den sogenannten Micro Expressions,
-eine dazugehörige Emotion zu prognostizieren. Um an dieses Ziel zu gelangen,
-wird das neuronale Netz mithilfe mehrerer Micro Expression
-Datensätze und verschiedener Parametereinstellungen der Schichten und
-der Inputdaten trainiert. Diese prognostizierten Emotionen sollen in Zukunft
-weiterverarbeitet werden, um im Rahmen eines Versuchsaufbaus eine Messung
-von Immersions- und Flowzuständen möglich zu machen. Der Inhalt
-dieser Arbeit ein Zwischenschritt auf dem Weg dahin. Für den Interessenten
-ist zu beobachten wie sich verschiedene Einstellungen der Eingangsdaten
-und Parameter auf das Ergebnis der Prognose auswirken.
+In this master thesis, a neural network is used to predict an associated
+emotion from very short and subtle facial expressions, the so-called micro
+expressions. To achieve this goal, the neural network is trained using several
+micro expression datasets and different parameter settings of the layers
+and the input data. In the future, these predicted emotions will be further
+processed to make it possible to measure immersion and flow states as part
+of an experimental setup. This work is therefore an intermediate step on the
+way to measuring flow. For those interested, it is to be observed how different
+settings of the input data and parameters affect the result of the prediction.
 
-Thesis findet sich [hier](Masterthesis_Linus-Ehmann.pdf)
+Thesis can be found [here](Masterthesis_Linus-Ehmann.pdf)
 
-[zurück](portfolio.md)
+[back](portfolio.md)
