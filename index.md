@@ -3,5 +3,5 @@
 Below are all the important documents about myself and the work I did during my studies.
 
 ### [Curriculum vitae](Lebenslauf.pdf)
-### [Certificates](certificates.pdf)
+### [Certificates](Zeugnisse.pdf)
 ### [Portfolio](portfolio.md)
