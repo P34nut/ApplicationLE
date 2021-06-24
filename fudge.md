@@ -1,13 +1,13 @@
-Beim Forschungsprojekt Chemistry with FUDGE handelt es sich um eine Kooperation der Hochschule Furtwangen mit der Leibniz Universität in Hannover. 
-Ziel des Projekts war es, eine Lehr- und Lernumgebung mit Hilfe der hochschuleigenen Open-Source Engine FUDGE (Furtwangen University Didactic Game Editor) zu erstellen.
+The research project Chemistry with FUDGE is a cooperation between Furtwangen University and Leibniz University in Hanover. 
+The aim of the project was to create a teaching and learning environment with the help of the university's own open-source engine FUDGE (Furtwangen University Didactic Game Editor).
 
-Aufgabe war es das Orbitalmodell der Chemie dazustellen, sodass es von Studierenden besser durchdrungen werden kann.
-Auch eine Darstellung für Tutoren war gefordert, um einfach Aufgaben erstellen und auswerten zu können.
+The task was to present the orbital model of chemistry so that it can be better understood by students.
+A representation for tutors was also required so that they could easily create and evaluate tasks.
 
-Die größte Herausforderung bestand darin, die recht komplexe Theorie in einer Engine umzusetzen, die selbst noch in der Entwicklung ist. Einiges musste daher zuerst in der Engine implementiert werden, damit es in der Anwendung benutzbar war. 
+The biggest challenge was to implement the rather complex theory in an engine that is itself still under development. Some things had to be implemented in the engine first so that they could be used in the application. 
 
-Ein kleiner Einblick findet sich [hier](https://hs-furtwangen.github.io/FUDGE-Chemistry_MasterW19/app/index.html)
+A small insight can be found [here](https://hs-furtwangen.github.io/FUDGE-Chemistry_MasterW19/app/index.html).
 
-Weitere Infos zur Engine gibt es [hier](https://jirkadelloro.github.io/FUDGE/)
+More information about the engine can be found [here](https://jirkadelloro.github.io/FUDGE/)
 
-[zurück](portfolio.md)
+[back](portfolio.md)
