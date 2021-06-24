@@ -1,11 +1,11 @@
-Im Studienfach Physically Based Rendering, war die Aufgabe ein Arnold-Material zu erstellen.
-Ich entschied mich dazu Glut aus Holzkohle umzusetzen.
+In the subject Physically Based Rendering, the task was to create an Arnold material.
+I decided to make embers out of charcoal.
 
 ![img](PBR.jpg)
 
-Wichtig war es, dass die Glut drei Merkmale aufweist.
-- Große Flächen, um die großen Holzkohlestücke darzustellen. Benutzt wurde hierfür eine Cellular-Node sowie eine Smoke-Node als Distortion um nicht zu glatte Kanten zu erhalten
-- Innerhalb dieser Großen Flächen sollten noch kleinere Flächen zu sehen sein. Es wurden die selben Nodes wie zuvor benutzt, lediglich das Tiling wurde erhöht.
-- Eine Holzmaßerung, die durch die Advanced Wood Map zum Vorschein kam.
+It was important that the embers had three characteristics.
+- Large areas to represent the large pieces of charcoal. For this purpose, a cellular node and a smoke node were used as distortion in order not to get too smooth edges.
+- Within these large areas, smaller areas should still be visible. The same nodes were used as before, only the tiling was increased.
+- A wood dimension that was revealed by the Advanced Wood Map.
 
-Das File für das Material ist [hier](PBR.max) zu finden.
+The file for the material can be found [here](PBR.max).
