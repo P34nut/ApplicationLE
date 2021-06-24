@@ -1,18 +1,16 @@
-Nachfolgend meine Bachelorthesis mit dem Titel *Analyse der Komponenten eines Videospiels zur erfolgreichen Umsetzung einer guten Bindung des Spielers zur Hauptfigur*
-
+The following is my bachelor's thesis entitled *Analysis of the components of a video game for the successful implementation of a good bond between the player and the main character*.
 
 **Abstract:**  
-Die vorliegende Bachelorarbeit beleuchtet die verschiedenen Komponenten,
-die wichtig für eine gute Bindung zur Hauptfigur sind und deren Einfluss
-auf den Erfolg von Videospielen. Es werden die theoretischen Grundlagen
-erläutert und anschließend in einer Analyse anhand dreier Spiele untersucht.
-Die in der Analyse gewonnenen Erkenntnisse werden in einem Fazit zusammengefasst
-und es wird aufgezeigt, welche Komponenten besonders wichtig
-sind, um eine gute Bindung zur Figur und damit verbunden ein erfolgreiches
-Videospiel zu entwickeln. Diese Bachelorarbeit ist somit interessant für alle,
-die noch nicht viel Erfahrung mit der Videospielentwicklung haben und ein
-erfolgreiches Spiel mit interessanten Figuren auf den Markt bringen wollen.
+The present bachelor thesis highlights the various components that are
+important for a good connection to the main character and their influence on
+the success of video games. The theoretical basics are explained and then
+examined in an analysis based on three games. The insights gained in the
+analysis are summarized in a conclusion and it is shown which components
+are particularly important to develop a good bond with the figure and thus a
+successful video game. This bachelor thesis is therefore interesting for those
+who do not have much experience in video game development and want to
+bring a successful game with interesting characters on the market.
 
-Thesis findet sich [hier](Thesis_Linus_Ehmann.pdf)
+Thesis can be found [here](Thesis_Linus_Ehmann.pdf)
 
-[zurück](portfolio.md)
+[back](portfolio.md)
