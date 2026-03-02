@@ -10,4 +10,8 @@ In the following you will find some projects, which were mainly created during m
 - [Bachelor Thesis](thesis.md)
 - [Master Thesis](masterthesis.md)
 
+Game Jams:
+- [Hive Gentry](HiveGentry.md)
+- [Super Frank](SuperFrank.md)
+
 [back](index.md)
