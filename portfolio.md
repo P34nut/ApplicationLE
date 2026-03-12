@@ -1,3 +1,8 @@
+Projects I was part of while working at upjers
+- [Molehill Empire 2](WIM.md)
+- [My Free Farm 3](MFF3.md)
+- [My Free Zoo](MFZ.md)
+
 In the following you will find some projects, which were mainly created during my studies.
 
 - [Schritte im Schatten](SiS.md)
