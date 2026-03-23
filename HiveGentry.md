@@ -1,4 +1,4 @@
-During the Franken Game Jam with the theme "Everything is connected" this little game came to life.
+During the Franken Game Jam 2025 with the theme "Everything is connected" this little game came to life.
 
 Make me coffee! Turn on the light! And also, could you start the warp drive?  
 

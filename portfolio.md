@@ -1,11 +1,11 @@
-Projects I was part of while working at [upjers](upjers.md)
+### Projects I was part of while working at [upjers](upjers.md)
 - [Molehill Empire 2](upjers.md#molehill-empire-2)
 - [My Free Farm 3](upjers.md#my-free-farm-3)
 - [My Free Zoo](upjers.md#my-free-zoo)
 - [CoreAG](upjers.md#coreag)
 - [AI Business Partner](upjers.md#ai-business-partner)
 
-In the following you will find some projects, which were mainly created during my studies.
+### In the following you will find some projects, which were mainly created during my studies.
 
 - [Schritte im Schatten](SiS.md)
 - [A Cat in Time](ACat.md)
@@ -17,7 +17,7 @@ In the following you will find some projects, which were mainly created during m
 - [Bachelor Thesis](thesis.md)
 - [Master Thesis](masterthesis.md)
 
-Game Jams:
+### Game Jams:
 - [Hive Gentry](HiveGentry.md)
 - [Super Frank](SuperFrank.md)
 
