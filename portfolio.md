@@ -5,12 +5,18 @@ This page highlights my professional contributions at upjers and my technical re
 ---
 
 ## 🏛️ Professional Industry Projects
-*Full-scale titles developed and maintained at **upjers GmbH** (2021 – Present).*
+*Full-scale titles and industry experience in professional studios (2016 – Present).*
 
+### **upjers GmbH**
+*Current Role: AI Business Partner & Intermediate Developer (2021 – Present).*
 * **[Molehill Empire 2](upjers.md#molehill-empire-2)** – Lead developer for the global release and cross-platform architecture (Mobile/Steam/Web).
 * **[My Free Zoo](upjers.md#my-free-zoo)** – Performance optimization and legacy refactoring for a massive, asset-heavy simulation.
 * **[My Free Farm 3](upjers.md#my-free-farm-3)** – Feature development and strategic mechanical overhauls post-launch.
 * **[CoreAG & AI Strategy](upjers.md#coreag)** – Development of internal shared frameworks and AI Business Partner for frontend teams (LLM integration).
+
+### **Daedalic Entertainment**
+*Quality Assurance Intern (2016 – 2017).*
+* **[QA & Controller Testing](daedalic.md)** – Six-month internship in Hamburg. Quality assurance for *Shadow Tactics*, *State of Mind*, and the *Leaves* series.
 
 ---
 

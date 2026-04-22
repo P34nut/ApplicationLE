@@ -27,8 +27,8 @@ In my current role at **upjers GmbH**, I bridge the gap between **high-performan
 ## 📂 Featured Work
 
 ### [**Professional Experience**](./upjers.md)
-A deep dive into my 5+ years at **upjers GmbH**. From solo-developing *Molehill Empire 2* and optimizing *My Free Zoo* to leading the company's AI transition.
-[Explore my Career Path →](./upjers.md)
+Detailed insights into my 5+ years at **upjers GmbH** (AI & Development) and my internship at **Daedalic Entertainment** (QA & Testing).
+[Explore my Career Path →](./portfolio.md#professional-industry-projects)
 
 ### [**Projects & Prototypes**](./portfolio.md)
 A showcase of my research projects, academic work (including my Master's on Real-Time Emotion Recognition), and Game Jam prototypes.
