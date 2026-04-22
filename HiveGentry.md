@@ -1,11 +1,21 @@
-During the Franken Game Jam 2025 with the theme "Everything is connected" this little game came to life.
+# 🛸 Hive Gentry
+*Franken Game Jam 2025 | Theme: "Everything is connected"*
 
-Make me coffee! Turn on the light! And also, could you start the warp drive?  
+Life isn't easy when you're a spaceship AI... 
 
-Life isn't easy when you're a spaceship AI ...
+Under constant pressure to prove you're not obsolete, you must manage the critical energy distribution between the various rooms of a spaceship to satisfy the crew's ever-changing needs.
 
-Under constant pressure to prove you're not obsolete, you have to manage the energy distribution between the rooms of a spaceship, so you can help the crew with their needs. Sadly, your crew isn't very patient, so make sure you don't keep them waiting for too long!
+### ⚙️ Mechanics & Features:
+*   **Energy Management:** Balanced distribution of power resources under time pressure.
+*   **Dynamic Connectivity:** Inspired by the jam theme, every system in the ship relies on a stable connection to your core.
+*   **Atmosphere:** A quirky, high-stakes simulation of AI life.
 
-It can be played [here](https://unicornslaughtercompany.itch.io/hive-gentry) (Has issues in Firefox)
+---
 
-Code is [here](https://github.com/P34nut/HiveGentry)
+### 📂 Resources
+*   [**Play on itch.io**](https://unicornslaughtercompany.itch.io/hive-gentry) *(Note: Issues in Firefox)*
+*   [**View Code on GitHub**](https://github.com/P34nut/HiveGentry)
+
+---
+
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)

@@ -1,13 +1,21 @@
-The research project Chemistry with FUDGE is a cooperation between Furtwangen University and Leibniz University in Hanover. 
-The aim of the project was to create a teaching and learning environment with the help of the university's own open-source engine FUDGE (Furtwangen University Didactic Game Editor).
+# 🧪 Chemistry in FUDGE
+*Educational orbital model simulation.*
 
-The task was to present the orbital model of chemistry so that it can be better understood by students.
-A representation for tutors was also required so that they could easily create and evaluate tasks.
+A research collaboration between **Furtwangen University** and **Leibniz University Hannover** to visualize complex atomic models using the open-source **FUDGE** engine.
 
-The biggest challenge was to implement the rather complex theory in an engine that is itself still under development. Some things had to be implemented in the engine first so that they could be used in the application. 
+### 🔬 The Project:
+The goal was to create an interactive learning environment that makes the orbital model of chemistry accessible to students and tutors.
 
-A small insight can be found [here](https://hs-furtwangen.github.io/FUDGE-Chemistry_MasterW19/app/index.html).
+*   **Engine Extension:** Developed new features for the FUDGE engine (Furtwangen University Didactic Game Editor) to support specific scientific visualization requirements.
+*   **Tutor Interface:** Created tools for educators to design and evaluate chemistry tasks within the simulation.
+*   **Technical Challenge:** Implementing high-level scientific theory within an engine that was simultaneously under active development.
 
-More information about the engine can be found [here](https://jirkadelloro.github.io/FUDGE/)
+---
 
-[back](portfolio.md)
+### 📂 Resources
+*   [**Live Demo (WebGL)**](https://hs-furtwangen.github.io/FUDGE-Chemistry_MasterW19/app/index.html)
+*   [**About FUDGE Engine**](https://github.com/hs-furtwangen/FUDGE)
+
+---
+
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)

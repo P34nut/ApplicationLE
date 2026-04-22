@@ -1,13 +1,20 @@
-During my Bachelor's degree, I worked for two semesters at the university TV station GLF.
+# 📺 GLF TV
+*Media production and broadcast engineering.*
 
-Here I gained insights into the production of reports and thus also expanded my knowledge of camera technology and post-production.
-There were also live broadcasts, in which I was responsible for the feed in one semester and for the lighting design in the other.
+During my Bachelor's degree, I spent two semesters at **GLF**, the university’s television station, gaining hands-on experience in the technical and creative aspects of broadcast media.
 
-Here are a few contributions that I made during this time
+### 📽️ Roles & Skills:
+*   **Media Production:** Developed reports, handled camera technology, and performed post-production editing.
+*   **Live Broadcast Engineering:** 
+    *   **Feed Management:** Responsible for technical signal distribution during live airings.
+    *   **Lighting Design:** Conceptualized and executed lighting setups for various broadcast formats.
 
-- Contribution on idea finding [here](GLFtv/Ideenfindung.mp4)
-- Contribution on the DSGVO [here](GLFtv/DSGVO.mp4)
+---
 
-More about GLF [here](https://glftv.de/)
+### 📂 Work Samples
+*   [**Report: Idea Finding**](GLFtv/Ideenfindung.mp4)
+*   [**Report: DSGVO (GDPR)**](GLFtv/DSGVO.mp4)
 
-[back](portfolio.md)
+---
+
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)

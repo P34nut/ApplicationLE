@@ -1,22 +1,22 @@
-The game *Schritte im Schatten* is a unique transfer of the point'n click concept into a full motion video game. The player is transported back to the nineties and interactively experiences the adventures of private detective René Kamp.
-Will he solve his latest case and thus escape his past? It's up to you.
+# 🕵️ Schritte im Schatten
+*Award-winning FMV Point-and-Click Adventure.*
 
-The game was developed as a project during my bachelor's degree, which lasted two semesters.
+*Schritte im Schatten* (Steps in the Shadows) is a unique fusion of classic 1990s point-and-click mechanics and **Full Motion Video (FMV)**. Players step into the role of private detective René Kamp to solve a noir mystery.
 
-In the first semester, we worked together as a team to develop a story and the associated screenplay. A lot of thought and planning had to go into it, because every scene had to be there. In contrast to conventional 2D or 3D graphics, it was not possible to simply add a scene or a different camera perspective later.
+### 💻 Technical Implementation:
+This project served as my intensive entry into the Unity ecosystem and the C# language.
 
-In the second semester, my task was to take over the sole programming. The Unity3D engine was used for this. 
-I learned a lot about programming during this time and taught myself the C# language during this time, as we had only learned Java and Javascript up to this point. 
+*   **Role:** Sole Programmer.
+*   **Video Integration:** Implementing a seamless interactive video playback system in Unity.
+*   **Complexity:** Unlike 3D games, the "baked-in" nature of FMV required meticulous planning for scene transitions and camera perspectives during the two-semester development cycle.
+*   **Recognition:** The project was awarded both the **Media and IT Prize** and the **Audience Prize** at Furtwangen University's Media Day (Winter 17/18).
 
-The project was a complete success, as the achievement was awarded the Media and IT Prize and the Audience Prize on Media Day in the winter semester 17/18.
+---
 
-More info about the project can be found on the [website of the game](https://schritte-im-schatten.de/). 
+### 📂 Resources
+*   [**Official Website & Demo**](https://schritte-im-schatten.de/)
+*   [**View Code on GitHub**](https://github.com/P34nut/Schritte-im-Schatten/)
 
-A demo can also be downloaded there.
-Since then, some bugs have been removed from the game and English subtitles have been added so that the game can be published soon.
+---
 
-You can find a glimpse of the code [here](https://github.com/P34nut/Schritte-im-Schatten/).
-
-It should be mentioned again that this was my first real Unity project and the code is accordingly messy and I would do many things differently today. 
-
-[back](portfolio.md)
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)

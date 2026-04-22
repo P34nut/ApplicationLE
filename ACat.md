@@ -1,17 +1,23 @@
-The game A Cat in Time is a project that was realised during my Master's programme. In cooperation with the Medien- und Filmgesellschaft Baden-Württemberg (MFG), a mobile VR/AR-like game was to be created. MFG had brought several GLAMs (Galleries, Libraries, Archives, Museums) on board for this, which provided open cultural data.
+# 🐈 A Cat in Time
+*Mobile VR/AR museum experience using open cultural data.*
 
-Our group decided on the city museum in Tübingen. Our task was to develop a mobile VR or AR-like game from the given cultural data.
+Developed during my Master's program in cooperation with the **Medien- und Filmgesellschaft Baden-Württemberg (MFG)** and the **Tübingen City Museum**.
 
-The result was the game A Cat in Time, in which the player can walk through today's city museum and travel back in time at certain points to find out what life was like in the Kornmarkt/City Museum in the past.
-In the past, small puzzles have to be solved in order to help the ghost cat reunite with its body at the end.
+### 🏛️ The Experience:
+*A Cat in Time* allows visitors to the museum to interact with historical artifacts through an innovative time-travel mechanic.
 
-More info about the museum can be found on their [website](https://www.tuebingen.de/stadtmuseum/) (German)
+*   **Objective:** Navigate the modern museum and travel back in time at specific locations to witness the history of the Kornmarkt.
+*   **Gameplay:** Solve location-based puzzles to assist a ghost cat in finding its physical form.
+*   **Technology:** Exploration of mobile VR/AR-like interaction paradigms using open-source museum archives.
 
-Design document can be found [here](Cat_Design.pdf) (German)
+---
 
-Code can be found [here](https://github.com/P34nut/A_Cat_In_Time)
+### 📂 Resources
+*   [**Design Document (PDF)**](Cat_Design.pdf) *(German)*
+*   [**View Code on GitHub**](https://github.com/P34nut/A_Cat_In_Time)
+*   [**Download APK (Android)**](https://drive.google.com/file/d/1_DWjKOdqAxEk2m3imQATNnsY8-dER7HX/view?usp=sharing)
 
-Download the App-APK [here](https://drive.google.com/file/d/1_DWjKOdqAxEk2m3imQATNnsY8-dER7HX/view?usp=sharing) (German)
+---
 
-[back](portfolio.md)
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)
 

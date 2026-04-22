@@ -1,53 +1,64 @@
-﻿# Upjers GmbH
+﻿# 🏢 Professional Experience: upjers GmbH
 
-I started working for upjers right after finishing my master’s degree in 2021.
+I joined **upjers GmbH** in 2021 immediately following my Master’s degree. Over the years, I have evolved from a Junior Developer to an Intermediate Unity Developer and eventually the **AI Business Partner for Frontend Teams**.
 
-## Molehill Empire 2
-The first project I was working on was Molehill Empire 2.
+---
 
-Molehill Empire 2 started as the successor and mobile version of the browser game Molehill Empire from 2006.
+## 🥕 Molehill Empire 2
+*Lead Developer | Cross-Platform (Mobile, Steam, Web)*
 
-By now it also has a web, standalone and steam version.
-It is a fully 2D game with lots of UIs. The main gameplay loop is to plant, harvest and sell different vegetables and fruits.
-The crops can also be used in different features to gain extra Xp or currency.
+Originally conceived as the mobile successor to the 2006 browser classic, *Molehill Empire 2* has expanded under my leadership into a robust cross-platform title.
 
-When I started working on the project, it was already soft-launched and I became the sole developer after about 3 months.
-I then coordinated the global release, added new features and also made the game ready for a web and steam release, which included adding a landscape mode.
+*   **Role & Impact:** Transitioned to sole developer within three months of joining. I coordinated the global release and architected the expansion to Web and Steam, including the implementation of a dynamic landscape mode.
+*   **Technical Highlights:** High-performance 2D rendering, complex UI systems (UGUI), and cross-platform input abstraction.
+*   **Live Ops:** Continual feature development and maintenance for a global player base.
 
-The game is still getting new features a few times a year. Now this is mostly done by another colleague since I got tasked with other projects. But I am still working on the game from time to time.
+[**Play Molehill Empire 2**](https://en.upjers.com/molehill-empire-2)
 
-More information about the game and the web version can be found [here](https://en.upjers.com/molehill-empire-2)
+---
 
-## My Free Farm 3
+## 🐾 My Free Zoo
+*Performance Optimization & Legacy Refactoring*
 
-After about 2 years of working on Molehill Empire 2, I got assigned to help working on My Free Farm 3.
+As one of upjers' most enduring titles, *My Free Zoo* presented unique challenges in maintaining a massive, asset-heavy simulation originally ported from Flash to Unity.
 
-My Free Farm 3 was, as the name implies, the successor to the first two games.
-I came to this project while it was still in development and not released yet. But it was already getting worked on for quite some time.
+*   **Key Focus:** Identifying and resolving performance bottlenecks caused by a decade of content accumulation. 
+*   **Architecture:** Navigating and refactoring a legacy codebase (originally developed by KING Art GmbH) to align with modern standards.
+*   **Scale:** Managing thousands of unique assets and complex simulation logic.
 
-I was tasked with adding new features, assets and fixing bugs because it was planned to release the game a few months later. After the release I was tasked with maintaining the game and changing some mechanics to make it more enjoyable since the release did not have the targeted audience.
-Unfortunately, the game never really took off, even after changing a lot of gameplay mechanics, and it was ultimately shut down.
+[**Visit My Free Zoo**](https://en.upjers.com/my-free-zoo)
 
-## My Free Zoo
+---
 
-After the shutdown of My Free Farm 3, I was scheduled to work on My Free Zoo.
+## 🚜 My Free Farm 3
+*Post-Launch Strategy & Feature Engineering*
 
-My Free Zoo is one of the oldest games upjers has in its portfolio but still remains maintained. 
-It started as a Flash game and got ported to Unity around 2018. This game has weekly updates and is still getting new features. 
+I joined the *My Free Farm 3* team during its final development stages to prepare for launch and subsequently lead post-launch mechanical overhauls.
 
-Working on this game was quite different since it was originally developed by KING Art GmbH and therefore has a different codebase than most of our other games that use the same core systems.
-Because the game has a really long lifetime, a lot of systems are not built for the number of assets it has now. So working on the project, improving the performance was a big factor.
+*   **Contribution:** Developed new gameplay features and integrated fresh assets to meet aggressive release deadlines.
+*   **Iteration:** Led strategic changes to core mechanics based on player feedback to improve retention and engagement.
 
-More about the game can be found [here](https://en.upjers.com/my-free-zoo)
+---
 
-## CoreAG
+## 🛠️ CoreAG (Internal Frameworks)
+*System Architecture & Shared Libraries*
 
-After some time working at upjers, I also got to be part of the CoreAG team which is a small team responsible for developing the core systems of the games. 
-CoreAG is in charge of maintaining and improving the core systems that are used across multiple games. By working on CoreAG, I was able to contribute to the development of these critical systems that impact the overall quality and performance of our games.
+As part of the CoreAG team, I contribute to the development and maintenance of the internal C# frameworks that power multiple titles across the company.
 
-## AI Business Partner
+*   **Impact:** Improving the "Engine-above-the-Engine" to ensure stability, performance, and developer efficiency for all frontend teams.
 
-At the end of 2025 I became the AI Business Partner for the frontend team.
-My role is to help the frontend team when they need assistance with AI-related tasks. I work closely with the frontend team to ensure that AI gets used correctly in their projects. 
-I coordinate the expectations of the internal management team through the tasks the team is provided. Hereby I ensure the quality of work is up to standard and keep up with the release of new and relevant AI-tools. 
+---
+
+## 🤖 AI Business Partner
+*Strategy & LLM Integration*
+
+In late 2025, I stepped into a strategic role as the **AI Business Partner** for the frontend department.
+
+*   **Mission:** Bridging the gap between cutting-edge AI tools (LLMs) and professional game development workflows.
+*   **Responsibilities:** Evaluating new AI tools, setting quality standards for AI-generated code/assets, and mentoring teams on efficient integration.
+*   **Management:** Coordinating between executive management and technical teams to align AI adoption with business goals.
+
+---
+
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)
 

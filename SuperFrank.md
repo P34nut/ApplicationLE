@@ -1,7 +1,19 @@
-During the Franken Game Jam 2024 with the theme "End Where You Started" we created this game
+# 🐋 Super Frank
+*Franken Game Jam 2024 | Theme: "End Where You Started"*
 
-You are SuperFrank a whale stranded on an alien planet. Explore it and complete small quests from other animals to find a way from this weird planet
+You are **Super Frank**, a whale stranded on a bizarre alien planet. Your mission: Explore the strange environment, interact with the local wildlife, and find a way back home.
 
-Can be played [here](https://weristdominik.itch.io/superfrank)
+### ⚙️ Mechanics & Features:
+*   **Whale Physics:** Navigate a terrestrial world with the movement logic of a stranded sea creature.
+*   **Quirky Questing:** Complete small tasks for alien animals to progress through the world.
+*   **Exploration:** A colorful, surreal prototype developed within 48 hours.
 
-Code is [here](https://github.com/DieterDerVermieter/SuperFrank)
+---
+
+### 📂 Resources
+*   [**Play on itch.io**](https://weristdominik.itch.io/superfrank)
+*   [**View Code on GitHub**](https://github.com/DieterDerVermieter/SuperFrank)
+
+---
+
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)

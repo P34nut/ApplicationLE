@@ -1,13 +1,21 @@
-In the subject Physically Based Rendering, the task was to create an Arnold material.
-I decided to make embers out of charcoal.
+# 🔥 Physically Based Rendering (PBR)
+*Procedural material design using Arnold for Maya.*
 
-![img](PBR.jpg)
+In this advanced rendering course, I focused on creating a complex, multi-layered **Charcoal Ember** material.
 
-It was important that the embers had three characteristics.
-- Large areas to represent the large pieces of charcoal. For this purpose, a cellular node and a smoke node were used as distortion in order not to get too smooth edges.
-- Within these large areas, smaller areas should still be visible. The same nodes were used as before, only the tiling was increased.
-- A wood dimension that was revealed by the Advanced Wood Map.
+![Charcoal Ember Material](PBR.jpg)
 
-The file for the material can be found [here](PBR.max).
+### 🛠️ Technical Implementation:
+To achieve a realistic "burning" effect, I implemented a shader with three distinct procedural characteristics:
+*   **Macro Structure:** Cellular nodes combined with smoke-based distortion nodes to create the rough, organic edges of large charcoal chunks.
+*   **Micro Detail:** High-frequency tiling of the distortion nodes within the larger segments to simulate internal cracking and heat intensity.
+*   **Internal Grain:** Integration of an *Advanced Wood Map* to reveal the underlying wood fiber structure where the charcoal has partially burned away.
 
-[back](portfolio.md)
+---
+
+### 📂 Resources
+*   [**Material File (.max)**](PBR.max)
+
+---
+
+### [← Back to Portfolio](portfolio.md) | [Back to Home](index.md)
